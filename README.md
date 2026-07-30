@@ -18,8 +18,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## Student Information
 
 - **Name:** Liean Jean Casildo
-- **Course/Section:** [Your Course & Section]
-- **Instructor:** [Instructor's Name]
+- **Course/Section:** BSIT 4H
+- **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
 ---
