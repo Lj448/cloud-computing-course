@@ -47,3 +47,14 @@ AWS is a good choice for this company because it needs to serve customers in dif
 - Amazon EC2 – for running the e-commerce application
 - Elastic Load Balancing – for sharing traffic between servers
 - Amazon EC2 Auto Scaling – for adding or removing servers based on demand
+
+- ## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS has many services that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS provides many services for large and complex business systems. |
+| Microsoft Environment | Azure | Azure works well with Microsoft products and services. |
+| AI / Machine Learning | GCP | GCP has strong tools for AI and Machine Learning. |
+| Kubernetes Deployment | GCP | GCP provides Google Kubernetes Engine for Kubernetes applications. |
+| Global Web Application | AWS | AWS has services that can help applications run around the world and handle changing traffic. |
