@@ -8,4 +8,5 @@ When I acted as a Cloud Solutions Consultant, I learned that choosing a cloud pl
 
 My GitHub portfolio also improved because I added different files for this laboratory. I added the AWS, Azure, and GCP research, comparison, recommendations, screenshots, and reflection. I also learned how to organize files in GitHub and use Markdown.
 
-Overall, this activity helped me understand cloud computing better. I learned that AWS, Azure, and GCP are useful platforms, but the best choice depends on what the company needs.
+this activity helped me understand cloud computing better. I learned that AWS, Azure, and GCP are useful platforms, but the best choice depends on what the company needs.
+
