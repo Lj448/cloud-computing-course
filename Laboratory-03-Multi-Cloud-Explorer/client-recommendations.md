@@ -35,3 +35,15 @@ Google Cloud is a good choice for this company because it has strong services fo
 - Compute Engine – for high-performance computing
 - Vertex AI – for building and using AI and Machine Learning models
 - Cloud Storage – for storing research data and files
+
+- ## Client D – Global E-Commerce Company
+
+### Recommended Platform: AWS
+
+AWS is a good choice for this company because it needs to serve customers in different parts of the world. AWS provides services that can help keep the website available and handle changes in the number of users. It can also automatically add or remove resources when demand changes.
+
+### Services the client could use
+
+- Amazon EC2 – for running the e-commerce application
+- Elastic Load Balancing – for sharing traffic between servers
+- Amazon EC2 Auto Scaling – for adding or removing servers based on demand
