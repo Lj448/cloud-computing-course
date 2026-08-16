@@ -11,3 +11,15 @@ AWS is a good choice for this startup because the company has a limited budget b
 - Amazon EC2 – for running the application
 - Amazon S3 – for storing files and data
 - Amazon RDS – for the application's database
+
+## Client B – University
+
+### Recommended Platform: Microsoft Azure
+
+Microsoft Azure is the best choice for this university because it already uses Microsoft technologies. Azure can work well with Windows Server, Microsoft 365, and Active Directory. Moving some services to Azure can also make the university's existing systems easier to manage in the cloud.
+
+### Services the client could use
+
+- Azure Virtual Machines – for running Windows Server
+- Microsoft Entra ID – for managing users and access
+- Azure Blob Storage – for storing files and data
