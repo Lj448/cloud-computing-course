@@ -23,3 +23,15 @@ Microsoft Azure is the best choice for this university because it already uses M
 - Azure Virtual Machines – for running Windows Server
 - Microsoft Entra ID – for managing users and access
 - Azure Blob Storage – for storing files and data
+
+## Client C – AI Research Company
+
+### Recommended Platform: Google Cloud Platform (GCP)
+
+Google Cloud is a good choice for this company because it has strong services for Artificial Intelligence and Machine Learning. The company also needs high-performance computing for its research work. GCP provides computing and AI services that can support these types of projects.
+
+### Services the client could use
+
+- Compute Engine – for high-performance computing
+- Vertex AI – for building and using AI and Machine Learning models
+- Cloud Storage – for storing research data and files
