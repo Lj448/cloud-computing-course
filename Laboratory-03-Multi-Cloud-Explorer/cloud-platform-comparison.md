@@ -9,23 +9,23 @@
 | Storage Service | Amazon S3 | Azure Blob Storage | Cloud Storage |
 | Networking Service | Amazon VPC | Azure Virtual Network | Google Cloud VPC |
 | Identity Service | AWS IAM | Microsoft Entra ID | Cloud Identity |
-| Primary Strength | Wide range of cloud services | Microsoft integration | AI, data, and Kubernetes |
-| Ideal Organizations | Startups and large businesses | Organizations using Microsoft technologies | Technology and data-focused organizations |
+| Primary Strength | Many cloud services | Works well with Microsoft | AI, data, and Kubernetes |
+| Ideal Organizations | Small and large businesses | Businesses using Microsoft | Technology and data businesses |
 
 ## Questions and Answers
 
 ### 1. Which cloud provider offers the broadest range of services?
 
-AWS offers a very broad range of cloud services. It provides services for computing, storage, databases, networking, security, and many other cloud needs.
+I think AWS offers the widest range of cloud services. It has services for storage, computers, databases, networks, security, and other needs.
 
 ### 2. Which provider best integrates with Microsoft technologies?
 
-Microsoft Azure is the best choice for organizations that already use Microsoft technologies. It works well with products such as Windows Server, Microsoft 365, and Active Directory.
+Azure is the best choice for Microsoft technologies. It works well with Windows Server, Microsoft 365, and other Microsoft products.
 
 ### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
 
-Google Cloud Platform is a strong choice for Artificial Intelligence and Kubernetes. It provides tools for AI and machine learning and has strong support for Kubernetes through Google Kubernetes Engine.
+I think Google Cloud is a strong choice for AI and Kubernetes. It has tools for AI and machine learning and supports Kubernetes.
 
 ### 4. Which cloud platform would you personally choose and why?
 
-I would personally choose AWS because it provides many different services and can support different types of projects. I also think it is a good choice for learning because there are many cloud services to explore.
+I would choose AWS because it has many services to choose from. I think it would also be useful for learning different cloud technologies.
