@@ -4,7 +4,8 @@
 
 I used KillerCoda to investigate a Linux server and found the following information:
 
-1. Operating System: Ubuntu 24.04
+1. Operating System: <img width="1919" height="866" alt="Screenshot 2026-08-17 145828" src="https://github.com/user-attachments/assets/f6250291-f3cf-421a-b337-91edff90275c" />
+
 2. CPU Information: [your CPU information]
 3. Memory (RAM): [your memory information]
 4. Disk Space: [your disk information]
