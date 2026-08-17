@@ -39,3 +39,8 @@ Cloud Identity helps organizations manage users and access to cloud applications
 ## Typical Enterprise Use Cases
 
 Businesses can use Google Cloud to host applications, store company data, run virtual machines, develop AI and machine learning systems, and deploy container-based applications.
+
+## Screenshot
+<img width="1912" height="860" alt="Screenshot 2026-08-16 205944" src="https://github.com/user-attachments/assets/16b7d9fd-2144-418f-90db-c342658453e8" />
+
+
