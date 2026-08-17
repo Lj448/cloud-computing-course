@@ -4,20 +4,10 @@
 
 I used KillerCoda to investigate a Linux server and found the following information:
 
-#### Operating System
-Screenshot 2026-08-17 144558.png
-
-#### CPU Information
-![CPU Information](screenshots/
-)
-
-#### Memory
-![Memory](screenshots/
-)
-
-#### Disk Space
-![Disk Space](screenshots/
-)
+1. Operating System: Ubuntu 24.04
+2. CPU Information: [your CPU information]
+3. Memory (RAM): [your memory information]
+4. Disk Space: [your disk information]
 
 ### Cloud Migration Analysis
 
