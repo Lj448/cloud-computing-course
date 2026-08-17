@@ -4,7 +4,7 @@
 
 I used KillerCoda to investigate a Linux server and found the following information:
 
-1. Operating System: <img width="1919" height="866" alt="Screenshot 2026-08-17 145828" src="https://github.com/user-attachments/assets/f6250291-f3cf-421a-b337-91edff90275c" />
+1. Operating System: <img width="1919" height="401" alt="Screenshot 2026-08-17 144558" src="https://github.com/user-attachments/assets/90952c10-40d8-4d58-8795-3f48fe47be6a" />
 
 
 2. CPU Information: <img width="1919" height="866" alt="Screenshot 2026-08-17 145828" src="https://github.com/user-attachments/assets/9805113d-a9b5-464a-8922-7e63212bc1ed" />
