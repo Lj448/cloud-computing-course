@@ -48,7 +48,7 @@ AWS is a good choice for this company because it needs to serve customers in dif
 - Elastic Load Balancing – for sharing traffic between servers
 - Amazon EC2 Auto Scaling – for adding or removing servers based on demand
 
-## Checkpoint 6 – Multi-Cloud Decision Matrix
+## Multi-Cloud Decision Matrix
 
 | Business Requirement | Recommended Platform | Simple Reason |
 |---|---|---|
