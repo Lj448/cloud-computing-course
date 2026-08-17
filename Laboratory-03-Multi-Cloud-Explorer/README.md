@@ -12,8 +12,9 @@ I used KillerCoda to investigate a Linux server and found the following informat
 
 3. Memory (RAM): <img width="895" height="125" alt="Screenshot 2026-08-17 150656" src="https://github.com/user-attachments/assets/95d5ccf3-91a1-4e52-971d-76629f01faa6" />
 
-
 4. Disk Space: <img width="760" height="209" alt="Screenshot 2026-08-17 151149" src="https://github.com/user-attachments/assets/6da81571-861d-4792-b29b-4121c2fb7ff9" />
+
+
 
 
 ### Cloud Migration Analysis
