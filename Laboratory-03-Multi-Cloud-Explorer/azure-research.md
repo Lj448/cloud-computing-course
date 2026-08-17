@@ -36,6 +36,9 @@ Microsoft Entra ID manages user identities and access to cloud resources and app
 2. Azure provides cloud services for many different business needs.
 3. Azure supports security, reliability, and hybrid cloud environments.
 
+<img width="1919" height="1079" alt="Screenshot 2026-08-17 163355" src="https://github.com/user-attachments/assets/487ee22d-0030-4411-94c9-8e0228c28b9b" />
+
+
 ## Typical Enterprise Use Cases
 
 Companies can use Azure to run business applications, host websites, store company files and data, support Windows Server systems, create backup solutions, and connect existing company systems to the cloud.
