@@ -30,7 +30,7 @@ I think Google Cloud is a strong choice for AI and Kubernetes. It has tools for 
 
 I would choose AWS because it has many services to choose from. I think it would also be useful for learning different cloud technologies.
 
-## Checkpoint 5 – Match the Cloud Services
+## Equivalent Services Table
 
 | Service Category | AWS | Azure | GCP |
 |---|---|---|---|
