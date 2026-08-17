@@ -39,5 +39,7 @@ AWS IAM helps manage users, permissions, and access to AWS resources.
 ## Typical Enterprise Use Cases
 
 Businesses can use AWS to host websites and applications, store company data, run databases, create backup systems, and support large online services.
+
+## Screenshot
 <img width="1917" height="957" alt="Screenshot 2026-08-16 201401" src="https://github.com/user-attachments/assets/6b02262f-5933-4b0f-a656-88b2d0aef85d" />
 
