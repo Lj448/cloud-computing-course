@@ -5,16 +5,20 @@
 I used KillerCoda to investigate a Linux server and found the following information:
 
 #### Operating System
-![Operating System](screenshots/os-info.png)
+![Operating System](screenshots/
+)
 
 #### CPU Information
-![CPU Information](screenshots/cpu-info.png)
+![CPU Information](screenshots/
+)
 
 #### Memory
-![Memory](screenshots/memory-info.png)
+![Memory](screenshots/
+)
 
 #### Disk Space
-![Disk Space](screenshots/disk-info.png)
+![Disk Space](screenshots/
+)
 
 ### Cloud Migration Analysis
 
@@ -23,3 +27,5 @@ If this Linux server were migrated to the cloud, it could be hosted using virtua
 - AWS: Amazon EC2
 - Azure: Azure Virtual Machines
 - GCP: Compute Engine
+
+These services can host Linux servers in the cloud. The best choice depends on the needs, cost, and resources of the company.
